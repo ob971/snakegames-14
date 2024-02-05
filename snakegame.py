@@ -10,7 +10,7 @@ pygame.font.init()
 random.seed()
 
 
-# we will declare global constant definitions
+#
 
 SPEED = 0.36
 SNAKE_SIZE = 9
